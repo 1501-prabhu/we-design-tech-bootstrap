@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-wrap: pretty;
+    /* border: 1px solid red; */
+}
+.ob {
+    background-color: #ed4e31;
+}
+.heroImage{
+    background-image: url(./assets/images/section-vector-layer1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    /* width: 100%; */
+}
+.aboutImage{
+    background-image: url(./assets/images/section2-vector-layer1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    /* width: 55%; */
+}
+.excellenceContainer{
+    background: linear-gradient(rgba(0, 0, 0, 0.448), rgba(0, 0, 0, 0.442)), url(./assets/images/section-bgimage1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
